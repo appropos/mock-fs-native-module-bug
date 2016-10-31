@@ -1,0 +1,1 @@
+# mock-fs-native-module-bug
