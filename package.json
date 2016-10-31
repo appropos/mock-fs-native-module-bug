@@ -1,0 +1,15 @@
+{
+  "name": "mock-fs-native-module-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "iconv": "^2.2.1",
+    "mock-fs": "^3.12.0"
+  }
+}
